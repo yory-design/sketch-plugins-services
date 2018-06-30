@@ -33,7 +33,7 @@ https://github.com/sonburn/symbol-organizer
 
 概要
 
-<a name="symbol">## Symbol・Style管理</a>
+## <a name="symbol">Symbol・Style管理</a>
 ### Symbol Manager
 https://gumroad.com/l/sketch-symbols-manager
 
