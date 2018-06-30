@@ -10,6 +10,8 @@ macOSのSpotlight機能のように、Sketchの機能、シンボル、プラグ
 
 #### 使い方
 
+---
+
 ### InVision Craft
 https://www.invisionapp.com/craft
 
