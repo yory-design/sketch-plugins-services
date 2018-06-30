@@ -2,6 +2,9 @@
 Sketchのおすすめプラグインや連携サービスをまとめています。
 
 # プラグイン
+
+- [Symbol・Style管理](#symbol)
+
 ## 必須
 ### Sketch Runner
 https://sketchrunner.com/
@@ -30,7 +33,7 @@ https://github.com/sonburn/symbol-organizer
 
 概要
 
-## Symbol・Style管理
+<a name="symbol">## Symbol・Style管理</a>
 ### Symbol Manager
 https://gumroad.com/l/sketch-symbols-manager
 
