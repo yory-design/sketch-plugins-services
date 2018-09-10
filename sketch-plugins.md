@@ -1,20 +1,18 @@
 # about
-Sketchのおすすめプラグインや連携サービスをまとめています。
+Sketchのおすすめプラグインをまとめています。
 
 ## 目次
 - プラグイン
   - [必須](#plugins-必須)
   - [Symbol・Style管理](#plugins-symbol)
-- 連携サービス
 
-# プラグイン
-## <a name="plugins-必須">必須</a>
-### Sketch Runner
+# <a name="plugins-必須">必須</a>
+## Sketch Runner
 https://sketchrunner.com/
 
 macOSのSpotlight機能のように、Sketchの機能、シンボル、プラグインなどを呼び出せるショートカットプラグインです。便利なプラグインが増えてくると、キーボードショートカットを割り当てられる空きが少なくなってきます。そんなときSketch Runnerを起動してプラグイン名を入れれば、キーボードを打つだけで素早く起動できます。
 
-### InVision Craft
+## InVision Craft
 https://www.invisionapp.com/craft
 
 プロトタイピング・コラボレーションプラットフォームであるInVisionが開発・提供しているプラグインです。Sketchプラグインの中でも突出した性能を備えており、1つのプラグインで以下の機能が使えます。
@@ -27,50 +25,45 @@ https://www.invisionapp.com/craft
 - JSON APIからコンテンツをオブジェクトに反映
 - コンテンツの複製
 
-### Symbol Organizer
+## Symbol Organizer
 https://github.com/sonburn/symbol-organizer
 
 概要
 
 ---
 
-## <a name="plugins-symbol">Symbol・Style管理</a>
-### Symbol Manager
+# <a name="plugins-symbol">Symbol・Style管理</a>
+## Symbol Manager
 https://gumroad.com/l/sketch-symbols-manager
 
 概要
 
-### Symbol Instance Renamer
+## Symbol Instance Renamer
 https://github.com/sonburn/symbol-instance-renamer
 
 概要
 
-### Move to Library
+## Move to Library
 https://github.com/ahmedmigo/Move-to-library-sketchplugin
 
 概要
 
-### Text Style Manager
+## Text Style Manager
 https://gumroad.com/l/sketch-text-styles-manager
 
 概要
 
-### Shared Style Finder
+## Shared Style Finder
 https://github.com/sonburn/shared-style-finder
 
 概要
 
-### Shared Text Styles
+## Shared Text Styles
 https://github.com/nilshoenson/shared-text-styles
 
 概要
 
-### Unused Style Remover
+## Unused Style Remover
 https://github.com/sonburn/unused-style-remover
 
 概要
-
-
-# 連携サービス
-## 必須
-### 
