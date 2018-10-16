@@ -3,11 +3,16 @@ Sketchのおすすめプラグインをまとめています。
 
 ## 目次
 - プラグイン
-  - [必須](#plugins-必須)
-  - [Symbol・Style管理](#plugins-symbol)
+  - [必須](#plugins-must)
+  - [レイアウト](#plugins-layout)
+  - [Symbol／Style管理](#plugins-symbol)
+  - [検索・置換](#plugins-search) 
+  - [ハンドオフ／遷移図](#plugins-handoff)
+  - [操作系](#plugins-control)
+  - [その他](#plugins-other)
 
 # プラグイン
-## <a name="plugins-必須">必須</a>
+## <a name="plugins-must”>必須</a>
 ### Sketch Runner
 https://sketchrunner.com/
 
