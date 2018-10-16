@@ -5,9 +5,9 @@ Sketchのおすすめプラグインをまとめています。
 - プラグイン
   - [必須](#必須)
   - [レイアウト](#レイアウト)
-  - [Symbol・Style管理](#Symbol・Style管理)
-  - [検索／置換](#検索／置換) 
-  - [ハンドオフ／遷移図](#ハンドオフ／遷移図)
+  - [Symbol・Style管理](#SymbolStyle管理)
+  - [検索・置換](#検索置換) 
+  - [ハンドオフ・遷移図](#ハンドオフ遷移図)
   - [操作系](#操作系)
   - [その他](#その他)
 
@@ -103,7 +103,7 @@ https://github.com/sonburn/unused-style-remover
 どのレイヤーにも適用されていないスタイルを一覧表示し、削除できるプラグインです。
 
 
-## 検索／置換
+## 検索・置換
 ### Rename It
 https://github.com/rodi01/RenameIt
 
@@ -130,7 +130,7 @@ https://github.com/wonderbit/sketch-select-similar-layers
 Adobe Illustratorのように、選択したレイヤーと同じ情報を持っているレイヤーをまとめて選択できるプラグインです。
 
 
-## ハンドオフ／遷移図
+## ハンドオフ・遷移図
 ### Sketch Measure
 http://utom.design/measure/
 
