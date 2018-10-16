@@ -3,16 +3,15 @@ Sketchのおすすめプラグインをまとめています。
 
 ## 目次
 - プラグイン
-  - [必須](#plugins-must)
-  - [レイアウト](#plugins-layout)
-  - [Symbol／Style管理](#plugins-symbol)
-  - [検索・置換](#plugins-search) 
-  - [ハンドオフ／遷移図](#plugins-handoff)
-  - [操作系](#plugins-control)
-  - [その他](#plugins-other)
+  - [必須](#必須)
+  - [レイアウト](#レイアウト)
+  - [Symbol／Style管理](#Symbol／Style管理)
+  - [検索／置換](#検索／置換) 
+  - [ハンドオフ／遷移図](#ハンドオフ／遷移図)
+  - [操作系](#操作系)
+  - [その他](#その他)
 
-# プラグイン
-## <a name="plugins-must”>必須</a>
+## 必須
 ### Sketch Runner
 https://sketchrunner.com/
 
@@ -48,7 +47,7 @@ Sketchの基本機能を拡張してくれるプラグインです。Automateを
 
 ---
 
-## <a name="plugins-layout”>レイアウト</a>
+## レイアウト
 ### Anima Toolkit
 https://animaapp.github.io/Auto-Layout/
 
@@ -57,11 +56,11 @@ https://animaapp.github.io/Auto-Layout/
 
 ---
 
-## <a name="plugins-symbol">Symbol・Style管理</a>
+## Symbol・Style管理
 ### Symbol Manager
 https://gumroad.com/l/sketch-symbols-manager
 
-概要
+シンボルをFinderのように一覧管理できるプラグインです。半角スラッシュの階層がフォルダで表現されており、ドラッグ&ドロップで位置の入れ替えができたり、シンボル名のリネームが可能です。
 
 ### Symbol Instance Renamer
 https://github.com/sonburn/symbol-instance-renamer
@@ -104,7 +103,7 @@ https://github.com/sonburn/unused-style-remover
 どのレイヤーにも適用されていないスタイルを一覧表示し、削除できるプラグインです。
 
 
-## <a name="plugins-search”>検索／置換</a>
+## 検索／置換
 ### Rename It
 https://github.com/rodi01/RenameIt
 
@@ -131,7 +130,7 @@ https://github.com/wonderbit/sketch-select-similar-layers
 Adobe Illustratorのように、選択したレイヤーと同じ情報を持っているレイヤーをまとめて選択できるプラグインです。
 
 
-## <a name="plugins-handoff”>ハンドオフ／遷移図</a>
+## ハンドオフ／遷移図
 ### Sketch Measure
 http://utom.design/measure/
 
@@ -143,7 +142,7 @@ https://abynim.github.io/UserFlows/
 
 Sketch上で画面遷移図が作れるプラグインです。通常の作業に支障が出ないように、生成される線がロックされていたり、アートボードを動かしても位置を再調整してくれるなど、親切な作りとなっています。
 
-## <a name="plugins-control”>操作系</a>
+## 操作系
 ### Nudge, Push, Shove.
 http://nudgepushshove.com/
 
@@ -154,7 +153,7 @@ https://github.com/webpatch/Handy-Tools
 
 Adobe Illustratorのように、オブジェクトの整列をする際に基点となるオブジェクトを指定できたり、複数オブジェクトのマージンを指定できるプラグインです。
 
-## <a name="plugins-other”>その他</a>
+## その他
 ### Midnight
 https://midnightsketch.com/
 
