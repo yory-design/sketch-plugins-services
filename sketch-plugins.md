@@ -147,7 +147,9 @@ http://nudgepushshove.com/
 ### Handy Tools
 https://github.com/webpatch/Handy-Tools
 
-Adobe Illustratorのように、オブジェクトの整列をする際に基点となるオブジェクトを指定できたり、複数オブジェクトのマージンを指定できるプラグインです。  
+Adobe Illustratorのように、オブジェクトの整列をする際に基点となるオブジェクトを指定できたり、複数オブジェクトのマージンを指定できるプラグインです。
+
+
 
 ## その他
 ### Midnight
