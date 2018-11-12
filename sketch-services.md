@@ -5,6 +5,8 @@
 
 ## プロトタイピング
 ### [InVision](https://www.invisionapp.com/)
+<img src="https://raw.githubusercontent.com/yory-design/sketch-plugins-services/master/img/services/invision.png" width=80px>
+
 プラグインで紹介したCraftを開発しているInVisionが提供しているサービス郡です。基本的にはブラウザ上での作業となるため、OSを気にせずに導入できます。プロトタイプ作成ツール／ブランドアセット管理ツール／レイアウト確認ツールなどが1つの契約で使用できるのも特徴的です。
 
 ### [Prott](https://prottapp.com/)
