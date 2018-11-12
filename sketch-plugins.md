@@ -76,6 +76,16 @@ https://github.com/ahmedmigo/Move-to-library-sketchplugin
 
 選択したシンボル／インスタンスをLibraryに移動できるプラグインです。移動したシンボルのインスタンスはすべてLibraryのシンボルとして置き換わります。
 
+### Styles Generator
+https://github.com/lucaorio/sketch-styles-generator
+
+選択したレイヤーからスタイルを一括で作成できるプラグインです。レイヤー名がそのままスタイル名になるので、例えば12pt/left／12pt/center／12pt/rightといったレイヤー名のテキストを作成してプラグインを使えば、一気にテキストスタイルが3つ作成できます。最初にスタイルを用意するタイミングで使用すると効果的です。
+
+### Layer Style Manager
+https://gumroad.com/l/sketch-shared-styles-manager
+
+Symbol Managerのレイヤースタイル版です。Symbol Managerと同様に、階層ごとにフォルダで分けられていたり、階層間の移動やリネームが可能です。
+
 ### Text Style Manager
 https://gumroad.com/l/sketch-text-styles-manager
 
