@@ -22,9 +22,9 @@
 <img src="https://raw.githubusercontent.com/yory-design/sketch-plugins-services/master/img/services/principle.png" width=80px>
 
 ### [Atomic](https://atomic.io/)
+<img src="https://raw.githubusercontent.com/yory-design/sketch-plugins-services/master/img/services/atomic.png" width=80px>
 
-
-### [Framer](https://framer.com/)
+### [Framer X](https://framer.com/)
 <img src="https://raw.githubusercontent.com/yory-design/sketch-plugins-services/master/img/services/framerx.png" width=80px>
 
 ### [Origami Studio](http://origami.design/)
