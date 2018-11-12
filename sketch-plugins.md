@@ -4,8 +4,8 @@ Sketchのおすすめプラグインをまとめています。
 ## 目次
  - [必須](#必須)
  - [レイアウト](#レイアウト)
- - [Symbol・Style管理](#symbolstyle管理)
- - [検索・置換](#検索置換) 
+ - [シンボル・スタイル管理](#シンボルスタイル管理)
+ - [検索・置換](#検索置換)
  - [ハンドオフ・遷移図](#ハンドオフ遷移図)
  - [操作系](#操作系)
  - [その他](#その他)
@@ -55,14 +55,9 @@ https://animaapp.github.io/Auto-Layout/
 
 ---
 
-## Symbol・Style管理
+## シンボル・スタイル管理
 ### Symbol Manager
 https://gumroad.com/l/sketch-symbols-manager
-
-シンボルをFinderのように一覧管理できるプラグインです。半角スラッシュの階層がフォルダで表現されており、ドラッグ&ドロップで位置の入れ替えができたり、シンボル名のリネームが可能です。
-
-### Symbol Instance Renamer
-https://github.com/sonburn/symbol-instance-renamer
 
 シンボルをFinderのように一覧管理できるプラグインです。半角スラッシュの階層がフォルダで表現されており、ドラッグ&ドロップで位置の入れ替えができたり、シンボル名のリネームが可能です。
 
