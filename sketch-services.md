@@ -23,7 +23,7 @@
 
 
 ### [Framer](https://framer.com/)
-<img src="https://raw.githubusercontent.com/yory-design/sketch-plugins-services/master/img/services/framer.png" width=80px>
+<img src="https://raw.githubusercontent.com/yory-design/sketch-plugins-services/master/img/services/framerx.png" width=80px>
 
 ### [Origami Studio](http://origami.design/)
 <img src="https://raw.githubusercontent.com/yory-design/sketch-plugins-services/master/img/services/origami.png" width=80px>
@@ -56,10 +56,14 @@ GithubのようにSketchファイルのバージョン管理ができるサー�
 Abstractと同様にバージョン管理ができるサービスです。Abstractほど高機能ではありませんが、できることが変更内容のアップロードと読み込みに絞られているため、シンプルな操作性となっています。また、一連のフローはSketch上のプラグインからおこなえます。
 
 ### [Kactus](https://kactus.io/)
+<img src="https://raw.githubusercontent.com/yory-design/sketch-plugins-services/master/img/services/kactus.png" width=80px>
+
 AbstractやPlantは自社のクラウド上でファイルを管理しますが、KactusはGitHubと連携したバージョン管理がおこなえるサービスです。無料でも使うことができますが、プライベートリポジトリで使用するには有料プランへの加入が必要となります。
 
 ## その他
 ### [Content Sync](https://www.contentsync.io/)
+<img src="https://raw.githubusercontent.com/yory-design/sketch-plugins-services/master/img/services/contentsync.png" width=80px>
+
 世界的なデザインファームであるIDEOが開発しているテキスト管理・反映サービスです。Google スプレッドシートと連携してSketch内のテキストを置き換えることができます。
 
 ### [Overflow](https://overflow.io/)
@@ -88,4 +92,6 @@ Icon Jarと同様のアセット管理アプリです。Sketchとの連携では
 Sketchで作業をしていく中で溜まってきたキャッシュを削除するツールです。
 
 ### [Lunacy](https://icons8.jp/lunacy)
+<img src="https://raw.githubusercontent.com/yory-design/sketch-plugins-services/master/img/services/lunacy.png" width=80px>
+
 Windows PCでもSketchファイルの作成・閲覧・編集ができるアプリです。今後はシンボルやスタイルの実装が予定されているようです。
