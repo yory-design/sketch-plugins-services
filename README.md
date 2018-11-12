@@ -1,5 +1,5 @@
 # about
-『UIデザイナーのための Sketch入門&実践ガイド 改訂版』の補足ドキュメントとして、またSketch初学者の方の助けとなるように、Sketchのおすすめプラグインや連携サービスをまとめています。
+[『UIデザイナーのための Sketch入門&実践ガイド 改訂版』](https://amzn.to/2QC200B)の補足ドキュメントとして、またSketch初学者の方の助けとなるように、Sketchのおすすめプラグインや連携サービスをまとめています。
 
 # 目次
 - [プラグイン](https://github.com/yory-design/sketch-plugins-services/blob/master/sketch-plugins.md)
