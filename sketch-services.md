@@ -37,7 +37,7 @@ https://framer.com/
 http://origami.design/
 
 
-
+---
 
 ## ハンドオフ
 ### Zeplin
@@ -55,6 +55,7 @@ https://material.io/tools/gallery/
 
 GoogleがリリースしたWebサービスです。アセットのエクスポートやスタイルのコピーができないなど、まだ機能は限られていますが、これからが楽しみなサービスです。
 
+---
 
 ## バージョン管理
 ### Abstract
@@ -71,6 +72,8 @@ Abstractと同様にバージョン管理ができるサービスです。Abstra
 https://kactus.io/
 
 AbstractやPlantは自社のクラウド上でファイルを管理しますが、KactusはGitHubと連携したバージョン管理がおこなえるサービスです。無料でも使うことができますが、プライベートリポジトリで使用するには有料プランへの加入が必要となります。
+
+---
 
 ## その他
 Content Sync

@@ -12,7 +12,6 @@ Sketchのおすすめプラグインをまとめています。
 
 ## 必須
 ### Sketch Runner
-![Sketch Runner](https://raw.githubusercontent.com/yory-design/sketch-plugins-services/master/img/plugins/runner/runner.png)
 https://sketchrunner.com/
 
 macOSのSpotlight機能のように、Sketchの機能、シンボル、プラグインなどを呼び出せるショートカットプラグインです。便利なプラグインが増えてくると、キーボードショートカットを割り当てられる空きが少なくなってきます。そんなときSketch Runnerを起動してプラグイン名を入れれば、キーボードを打つだけで素早く起動できます。
@@ -107,6 +106,7 @@ https://github.com/sonburn/unused-style-remover
 
 どのレイヤーにも適用されていないスタイルを一覧表示し、削除できるプラグインです。
 
+---
 
 ## 検索・置換
 ### Rename It
@@ -134,6 +134,7 @@ https://github.com/wonderbit/sketch-select-similar-layers
 
 Adobe Illustratorのように、選択したレイヤーと同じ情報を持っているレイヤーをまとめて選択できるプラグインです。
 
+---
 
 ## ハンドオフ・遷移図
 ### Sketch Measure
@@ -157,6 +158,8 @@ http://nudgepushshove.com/
 https://github.com/webpatch/Handy-Tools
 
 Adobe Illustratorのように、オブジェクトの整列をする際に基点となるオブジェクトを指定できたり、複数オブジェクトのマージンを指定できるプラグインです。
+
+---
 
 ## その他
 ### Midnight
