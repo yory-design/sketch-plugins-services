@@ -8,6 +8,8 @@
 プラグインで紹介したCraftを開発しているInVisionが提供しているサービス郡です。基本的にはブラウザ上での作業となるため、OSを気にせずに導入できます。プロトタイプ作成ツール／ブランドアセット管理ツール／レイアウト確認ツールなどが1つの契約で使用できるのも特徴的です。
 
 ### [Prott](https://prottapp.com/)
+<img src="https://raw.githubusercontent.com/yory-design/sketch-plugins-services/master/img/services/prott.png" width=80px>
+
 日本発のデザインファームであるGoodpatchが開発しているサービスです。基本的な機能はInVisionと同様ですが、作成した画面遷移の流れを遷移図として生成できるなどの違いがあります。基本はブラウザベースですが、グレードの高いプランではMacアプリの利用も可能です。作成したプロトタイプはブラウザやモバイルアプリから確認できます。日本語で使えるサービスなので、英語に抵抗がある場合は現状でほぼ唯一の選択肢となります。
 
 ### [Flinto for Mac](https://www.flinto.com/ja/mac/)
