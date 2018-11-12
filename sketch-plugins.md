@@ -39,9 +39,7 @@ Sketchの基本機能を拡張してくれるプラグインです。Automateを
 - レイヤーのX／Y位置に応じてレイヤーリストを並び替え
 - 特定の種類のレイヤーだけを選択する
 - グリッドやガイドのコピー&ペースト
-など、100種類近くの機能が使えるようになります。
-
----
+など、100種類近くの機能が使えるようになります。  
 
 ## レイアウト
 ### Anima Toolkit
@@ -50,7 +48,6 @@ https://animaapp.github.io/Auto-Layout/
 オブジェクトに対して位置／サイズの指定を設定することで、レスポンシブなオブジェクトが作れるプラグインです。このプラグインを使うことで、1つのオブジェクトでサイズの異なる状態の確認ができるようになります。
 他にも指定したマージンを保ってくれる「Stacked Group」の作成や、有料ですがSketch上のレイアウトをそのままWebサイトとして公開できる「Launchpad」、アニメーションGIFを作成できる「Timeline」もあります。
 
----
 
 ## シンボル・スタイル管理
 ### Symbol Manager
@@ -101,9 +98,7 @@ https://github.com/nilshoenson/shared-text-styles
 ### Unused Style Remover
 https://github.com/sonburn/unused-style-remover
 
-どのレイヤーにも適用されていないスタイルを一覧表示し、削除できるプラグインです。
-
----
+どのレイヤーにも適用されていないスタイルを一覧表示し、削除できるプラグインです。  
 
 ## 検索・置換
 ### Rename It
@@ -129,9 +124,7 @@ https://github.com/sonburn/presto-selecto
 ### Select Similar Layers
 https://github.com/wonderbit/sketch-select-similar-layers
 
-Adobe Illustratorのように、選択したレイヤーと同じ情報を持っているレイヤーをまとめて選択できるプラグインです。
-
----
+Adobe Illustratorのように、選択したレイヤーと同じ情報を持っているレイヤーをまとめて選択できるプラグインです。  
 
 ## ハンドオフ・遷移図
 ### Sketch Measure
@@ -154,9 +147,7 @@ http://nudgepushshove.com/
 ### Handy Tools
 https://github.com/webpatch/Handy-Tools
 
-Adobe Illustratorのように、オブジェクトの整列をする際に基点となるオブジェクトを指定できたり、複数オブジェクトのマージンを指定できるプラグインです。
-
----
+Adobe Illustratorのように、オブジェクトの整列をする際に基点となるオブジェクトを指定できたり、複数オブジェクトのマージンを指定できるプラグインです。  
 
 ## その他
 ### Midnight
