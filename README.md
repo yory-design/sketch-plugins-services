@@ -5,6 +5,7 @@
 - [プラグイン](https://github.com/yory-design/sketch-plugins-services/blob/master/sketch-plugins.md)
 - [連携サービス](https://github.com/yory-design/sketch-plugins-services/blob/master/sketch-services.md)
 
+---
 - Sketchのバージョンによっては正常に動作しないものもあります。特にメジャーアップデートではそれまで使えていたプラグインが動作しない場合がよくあるのでご注意ください。
 - Sketchのプラグインページを覗くと新しいものが日々追加されているので要チェックです。
   - https://www.sketchapp.com/extensions/plugins/
