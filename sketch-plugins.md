@@ -97,6 +97,11 @@ Symbol Managerのテキストスタイル版です。Style Managerと同様に�
 
 選択したArtboard／Layerの名称を変更できるプラグインです。単に打ち込んだテキストに変えるだけでなく、テキストの置換や英数連番の追加、元レイヤー名の入れ込みなど、リネームに欲しい機能がひととおり揃っています。
 
+### [Find and Replace ](https://github.com/thierryc/Sketch-Find-And-Replace)
+<img src="https://raw.githubusercontent.com/yory-design/sketch-plugins-services/master/img/plugins/icons/find-and-replace.png" width=80px>
+
+ドキュメント内のテキストを検索・置換できるプラグインです。対象は選択中のレイヤー、現在のページ、ドキュメント内のすべてのページから選ぶことができ、オーバーライドにも対応しています。日本語は置換のみで検索には非対応なので注意が必要です。
+
 ### [Font Finder](https://github.com/ukn530/FontFinder)
 いま開いているページ内で使われているフォントを一覧で表示してくれるプラグインです。チェック項目を入れると、そのフォントが適用されているレイヤーだけを選択状態にできます。不要なフォントが紛れ込んでいないかチェックするのに役立ちます。
 
@@ -113,7 +118,10 @@ Symbol Managerのテキストスタイル版です。Style Managerと同様に�
 ### [Select Similar Layers](https://github.com/wonderbit/sketch-select-similar-layers)
 <img src="https://raw.githubusercontent.com/yory-design/sketch-plugins-services/master/img/plugins/icons/select-similar-layers.png" width=80px>
 
-Adobe Illustratorのように、選択したレイヤーと同じ情報を持っているレイヤーをまとめて選択できるプラグインです。  
+Adobe Illustratorのように、選択したレイヤーと同じ情報を持っているレイヤーをまとめて選択できるプラグインです。
+
+### [Overrideit](https://github.com/ahmedmigo/overrideit-sketchplugin)
+選択したインスタンスのオーバーライドを別ウインドウで編集できるプラグインです。やや動作が重いのが難点ですが、オーバーライドの項目が多い場合は、インスペクタには収まりきらないのでこのプラグインが役に立ちます。
 
 ## ハンドオフ・遷移図
 ### [Sketch Measure](http://utom.design/measure/)
