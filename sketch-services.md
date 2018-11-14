@@ -1,112 +1,175 @@
 ## 目次
-- [プロトタイピング](#プロトタイピング)
-- [ハンドオフ](#ハンドオフ)
-- [バージョン管理](#バージョン管理)
-- [リソース管理](#リソース管理)
-- [文書管理](#文書管理)
-- [その他](#その他)
+ - [必須](#必須)
+ - [レイアウト](#レイアウト)
+ - [シンボル・スタイル管理](#シンボルスタイル管理)
+ - [検索・置換](#検索置換)
+ - [ハンドオフ・遷移図](#ハンドオフ遷移図)
+ - [操作系](#操作系)
+ - [その他](#その他)
 
-## プロトタイピング
-### [InVision](https://www.invisionapp.com/)
-<img src="https://raw.githubusercontent.com/yory-design/sketch-plugins-services/master/img/services/icons/invision.png" width=80px>
+## 必須
+### [Sketch Runner](https://sketchrunner.com/)
+<img src="https://raw.githubusercontent.com/yory-design/sketch-plugins-services/master/img/plugins/icons/runner.png" width=80px>
 
-プラグインで紹介したCraftを開発しているInVisionが提供しているサービス郡です。基本的にはブラウザ上での作業となるため、OSを気にせずに導入できます。プロトタイプ作成ツール／ブランドアセット管理ツール／レイアウト確認ツールなどが1つの契約で使用できるのも特徴的です。
+macOSのSpotlight機能のように、Sketchの機能、シンボル、プラグインなどを呼び出せるショートカットプラグインです。便利なプラグインが増えてくると、キーボードショートカットを割り当てられる空きが少なくなってきます。そんなときSketch Runnerを起動してプラグイン名を入れれば、キーボードを打つだけで素早く起動できます。
 
-### [Prott](https://prottapp.com/)
-<img src="https://raw.githubusercontent.com/yory-design/sketch-plugins-services/master/img/services/icons/prott.png" width=80px>
+### [InVision Craft](https://www.invisionapp.com/craft)
+<img src="https://raw.githubusercontent.com/yory-design/sketch-plugins-services/master/img/plugins/icons/invision.png" width=80px>
 
-日本発のデザインファームであるGoodpatchが開発しているサービスです。基本的な機能はInVisionと同様ですが、作成した画面遷移の流れを遷移図として生成できるなどの違いがあります。基本はブラウザベースですが、グレードの高いプランではMacアプリの利用も可能です。作成したプロトタイプはブラウザやモバイルアプリから確認できます。日本語で使えるサービスなので、英語に抵抗がある場合は現状でほぼ唯一の選択肢となります。
+プロトタイピング・コラボレーションプラットフォームであるInVisionが開発・提供しているプラグインです。Sketchプラグインの中でも突出した性能を備えており、1つのプラグインで以下の機能が使えます。
 
-### [Flinto for Mac](https://www.flinto.com/ja/mac/) / [Principle](http://principleformac.com/) / [Atomic](https://atomic.io/) / [ProtoPie](https://www.protopie.io/)
-<img src="https://raw.githubusercontent.com/yory-design/sketch-plugins-services/master/img/services/icons/flinto.png" width=80px>　<img src="https://raw.githubusercontent.com/yory-design/sketch-plugins-services/master/img/services/icons/principle.png" width=80px>　<img src="https://raw.githubusercontent.com/yory-design/sketch-plugins-services/master/img/services/icons/atomic.png" width=80px>　<img src="https://raw.githubusercontent.com/yory-design/sketch-plugins-services/master/img/services/icons/protopie.png" width=80px>
+- InVisionにアートボードを同期
+- レイヤーや色、テキスト情報の保存・同期
+- ファイル内にあるオブジェクトからスタイルガイドを生成
+- テキストや写真をオブジェクトに反映
+- Webサイト上のコンテンツ（テキスト、写真）をオブジェクトに反映
+- JSON APIからコンテンツをオブジェクトに反映
+- コンテンツの複製
 
-### [Framer X](https://framer.com/) / [Origami Studio](http://origami.design/)
-<img src="https://raw.githubusercontent.com/yory-design/sketch-plugins-services/master/img/services/icons/framerx.png" width=80px>　<img src="https://raw.githubusercontent.com/yory-design/sketch-plugins-services/master/img/services/icons/origami.png" width=80px>
+### [Symbol Organizer](https://github.com/sonburn/symbol-organizer)
+<img src="https://raw.githubusercontent.com/yory-design/sketch-plugins-services/master/img/plugins/icons/symbol-organizer.png" width=80px>
 
-## ハンドオフ
-### [Zeplin](https://zeplin.io/)
-<img src="https://raw.githubusercontent.com/yory-design/sketch-plugins-services/master/img/services/icons/zeplin.png" width=80px>
+Symbolsページに格納されているシンボルを並び替えできるプラグインです。水平／垂直の並び方向、階層を含んだ並び替えなどが可能です。Symbolsページは気がつくとごちゃごちゃしてしまいがちなので、定期的にSymbol Organizerを適用して整理することで、全体の構成を見渡せたり、命名がおろそかになっているシンボルを発見するのに役立ちます。
 
-画面レイアウトの確認や各種オブジェクトの情報が取得できるサービスです。画面ごとの履歴の確認や、シンボルをコンポーネントの一覧としてまとめることで、より開発者がUIの構造を把握しやすくなるなど、便利な機能が備わっています。また、Macアプリの他にもWindowsアプリとブラウザ上で使えるWebアプリがあるため、プラットフォームに関係なく利用できます。
+### [Automate](https://ashung.github.io/Automate-Sketch/)
+<img src="https://raw.githubusercontent.com/yory-design/sketch-plugins-services/master/img/plugins/icons/automate.png" width=80px>
 
-### [Avocode](https://avocode.com/)
-<img src="https://raw.githubusercontent.com/yory-design/sketch-plugins-services/master/img/services/icons/avocode.png" width=80px>
+Sketchの基本機能を拡張してくれるプラグインです。Automateを入れるだけで
+- 選択した複数レイヤーのマージンを指定した数値に揃える
+- レイヤーのX／Y位置に応じてレイヤーリストを並び替え
+- 特定の種類のレイヤーだけを選択する
+- グリッドやガイドのコピー&ペースト
+など、100種類近くの機能が使えるようになります。  
 
-Zeplinと同様、レイアウトの確認やスタイルが取得できるサービスです。Sketchのようにレイヤーリストが存在し、インスタンスは親シンボルを参照できるなど、Sketchに近い動作ができるのが特徴です。Macアプリ／Windowsアプリ／Webアプリが利用できます。
+## レイアウト
+### [Anima Toolkit](https://animaapp.github.io/Auto-Layout/)
+<img src="https://raw.githubusercontent.com/yory-design/sketch-plugins-services/master/img/plugins/icons/anima.png" width=80px>
 
-### [Sympli]()
-<img src="https://raw.githubusercontent.com/yory-design/sketch-plugins-services/master/img/services/icons/sympli.png" width=80px>
+オブジェクトに対して位置／サイズの指定を設定することで、レスポンシブなオブジェクトが作れるプラグインです。このプラグインを使うことで、1つのオブジェクトでサイズの異なる状態の確認ができるようになります。
+他にも指定したマージンを保ってくれる「Stacked Group」の作成や、有料ですがSketch上のレイアウトをそのままWebサイトとして公開できる「Launchpad」、アニメーションGIFを作成できる「Timeline」もあります。
 
+## シンボル・スタイル管理
+### [Symbol Manager](https://gumroad.com/l/sketch-symbols-manager)
+シンボルをFinderのように一覧管理できるプラグインです。半角スラッシュの階層がフォルダで表現されており、ドラッグ&ドロップで位置の入れ替えができたり、シンボル名のリネームが可能です。
 
+### [Symbol Instance Renamer](https://github.com/sonburn/symbol-instance-renamer)
+<img src="https://raw.githubusercontent.com/yory-design/sketch-plugins-services/master/img/plugins/icons/instance-renamer.png" width=80px>
 
+インスタンスのレイヤー名をシンボル名にリネームしてくれるプラグインです。初期フェーズではシンボル名を考えるのを後回しにしがちですが、このプラグインを使うことで後からでもレイヤー名を整えられます。適用範囲は「すべてのページ」「現在見ているページ」「選択したアートボード」「選択したインスタンス」など状況に応じて変えられます。
 
-### [Gallery](https://material.io/tools/gallery/)
-<img src="https://raw.githubusercontent.com/yory-design/sketch-plugins-services/master/img/services/icons/gallery.png" width=80px>
+### [Symbol Instance Locator](https://github.com/sonburn/symbol-instance-locator)
+<img src="https://raw.githubusercontent.com/yory-design/sketch-plugins-services/master/img/plugins/icons/instance-locator.png" width=80px>
 
-GoogleがリリースしたWebサービスです。アセットのエクスポートやスタイルのコピーができないなど、まだ機能は限られていますが、これからが楽しみなサービスです。
+選択したシンボル／インスタンスを一覧表示してくれるプラグインです。一覧から選択すると該当するレイヤーに移動し、作成したシンボルがどこで使われているかを把握できます。
 
-## バージョン管理
-### [Abstract](https://www.abstractapp.com/)
-<img src="https://raw.githubusercontent.com/yory-design/sketch-plugins-services/master/img/services/icons/abstract.png" width=80px>
+### [Move to Library](https://github.com/ahmedmigo/Move-to-library-sketchplugin)
+<img src="https://raw.githubusercontent.com/yory-design/sketch-plugins-services/master/img/plugins/icons/move-to-library.png" width=80px>
 
-GithubのようにSketchファイルのバージョン管理ができるサービスです。チームで利用することで、各メンバーがブランチを切って作業をコミットし、マージして差分をマスターファイルに集約する、といった使い方が可能となります。その他にも範囲指定によるコメントや、簡単なハンドオフ機能も搭載しています。なお、Abstractを導入すると.sketchファイルをAbstract上から開くフローへと変わります。ローカル環境でのファイル管理はできなくなるので注意が必要です。
+選択したシンボル／インスタンスをLibraryに移動できるプラグインです。移動したシンボルのインスタンスはすべてLibraryのシンボルとして置き換わります。
 
-### [Plant](https://plantapp.io/)
-<img src="https://raw.githubusercontent.com/yory-design/sketch-plugins-services/master/img/services/icons/plant.png" width=80px>
+### [Styles Generator](https://github.com/lucaorio/sketch-styles-generator)
+<img src="https://raw.githubusercontent.com/yory-design/sketch-plugins-services/master/img/plugins/icons/styles-generator.png" width=80px>
 
-Abstractと同様にバージョン管理ができるサービスです。Abstractほど高機能ではありませんが、できることが変更内容のアップロードと読み込みに絞られているため、シンプルな操作性となっています。また、一連のフローはSketch上のプラグインからおこなえます。
+選択したレイヤーからスタイルを一括で作成できるプラグインです。レイヤー名がそのままスタイル名になるので、例えば12pt/left／12pt/center／12pt/rightといったレイヤー名のテキストを作成してプラグインを使えば、一気にテキストスタイルが3つ作成できます。最初にスタイルを用意するタイミングで使用すると効果的です。
 
-### [Kactus](https://kactus.io/)
-<img src="https://raw.githubusercontent.com/yory-design/sketch-plugins-services/master/img/services/icons/kactus.png" width=80px>
+### [Layer Style Manager](https://gumroad.com/l/sketch-shared-styles-manager)
+Symbol Managerのレイヤースタイル版です。Symbol Managerと同様に、階層ごとにフォルダで分けられていたり、階層間の移動やリネームが可能です。
 
-AbstractやPlantは自社のクラウド上でファイルを管理しますが、KactusはGitHubと連携したバージョン管理がおこなえるサービスです。無料でも使うことができますが、プライベートリポジトリで使用するには有料プランへの加入が必要となります。
+### [Text Style Manager](https://gumroad.com/l/sketch-text-styles-manager)
+Symbol Managerのテキストスタイル版です。Style Managerと同様に、階層ごとにフォルダで分けられていたり、階層間の移動やリネームが可能です。
 
-### [Versions](https://versions.sympli.io/)
-<img src="https://raw.githubusercontent.com/yory-design/sketch-plugins-services/master/img/services/icons/versions.png" width=80px>
+### [Shared Style Finder](https://github.com/sonburn/shared-style-finder)
+<img src="https://raw.githubusercontent.com/yory-design/sketch-plugins-services/master/img/plugins/icons/shared-style-finder.png" width=80px>
 
+スタイルが適用されているレイヤーを一覧表示できるプラグインです。一覧から選択すると該当レイヤーに移動します。
 
-## リソース管理
-### [Zeroheight](https://zeroheight.com/)
-<img src="https://raw.githubusercontent.com/yory-design/sketch-plugins-services/master/img/services/icons/zeroheight.png" width=80px>
+### [Shared Text Styles](https://github.com/nilshoenson/shared-text-styles)
+テキストスタイルをインポート／エクスポートできるプラグインです。このプラグインを活用することで、例えばさまざまなプロジェクトに応用できるマスターファイルを作成し、プロジェクトの初期からテキストスタイルが用意された状態のファイルを作成できるようになります。
 
+### [Unused Style Remover](https://github.com/sonburn/unused-style-remover)
+<img src="https://raw.githubusercontent.com/yory-design/sketch-plugins-services/master/img/plugins/icons/unused-style-remover.png" width=80px>
 
-### [IconJar](https://geticonjar.com/)
-<img src="https://raw.githubusercontent.com/yory-design/sketch-plugins-services/master/img/services/icons/iconjar.png" width=80px>
+どのレイヤーにも適用されていないスタイルを一覧表示し、削除できるプラグインです。  
 
-SVGやPNGなどのファイルを読み込んで整理できるアセット管理アプリです。ライブラリ管理機能があり、ファイルの保存先をDropboxなどにすることで複数人でアセットを共有できます。またプラグイン経由で、Sketch内のアセットをIcon Jarに追加することもできます。
+## 検索・置換
+### [Rename It](https://github.com/rodi01/RenameIt)
+<img src="https://raw.githubusercontent.com/yory-design/sketch-plugins-services/master/img/plugins/icons/renameit.png" width=80px>
 
-### [Lingo](https://www.lingoapp.com/)
-<img src="https://raw.githubusercontent.com/yory-design/sketch-plugins-services/master/img/services/icons/lingo.png" width=80px>
+選択したArtboard／Layerの名称を変更できるプラグインです。単に打ち込んだテキストに変えるだけでなく、テキストの置換や英数連番の追加、元レイヤー名の入れ込みなど、リネームに欲しい機能がひととおり揃っています。
 
-Icon Jarと同様のアセット管理アプリです。Sketchとの連携ではスタイルやシンボルの同期／管理が可能となっています。
+### [Find and Replace ](https://github.com/thierryc/Sketch-Find-And-Replace)
+<img src="https://raw.githubusercontent.com/yory-design/sketch-plugins-services/master/img/plugins/icons/find-and-replace.png" width=80px>
 
-## 文書管理
-### [Content Sync](https://www.contentsync.io/)
-<img src="https://raw.githubusercontent.com/yory-design/sketch-plugins-services/master/img/services/icons/contentsync.png" width=80px>
+ドキュメント内のテキストを検索・置換できるプラグインです。対象は選択中のレイヤー、現在のページ、ドキュメント内のすべてのページから選ぶことができ、オーバーライドにも対応しています。日本語は置換のみで検索には非対応なので注意が必要です。
 
-世界的なデザインファームであるIDEOが開発しているテキスト管理・反映サービスです。Google スプレッドシートと連携してSketch内のテキストを置き換えることができます。
+### [Font Finder](https://github.com/ukn530/FontFinder)
+いま開いているページ内で使われているフォントを一覧で表示してくれるプラグインです。チェック項目を入れると、そのフォントが適用されているレイヤーだけを選択状態にできます。不要なフォントが紛れ込んでいないかチェックするのに役立ちます。
 
-### [Visual Inspector Scribble](https://www.canvasflip.com/visual-inspector/scribble/)
-<img src="https://raw.githubusercontent.com/yory-design/sketch-plugins-services/master/img/services/icons/scribble.png" width=80px>
+### [Font Mixer](https://github.com/littlebusters/Sketch-Font-Mixer)
+<img src="https://raw.githubusercontent.com/yory-design/sketch-plugins-services/master/img/plugins/icons/font-mixer.png" width=80px>
 
+選択したテキストレイヤー内のテキストを、英語やひらがな、数字などの条件をもとに他のフォントに置換できるプラグインです。
+
+### [Presto Selecto](https://github.com/sonburn/presto-selecto)
+<img src="https://raw.githubusercontent.com/yory-design/sketch-plugins-services/master/img/plugins/icons/presto-selecto.png" width=80px>
+
+条件を指定してレイヤーを一括選択できるプラグインです。レイヤーの種類やレイヤー名に含まれるテキストなどを条件に含むことができます。
+
+### [Select Similar Layers](https://github.com/wonderbit/sketch-select-similar-layers)
+<img src="https://raw.githubusercontent.com/yory-design/sketch-plugins-services/master/img/plugins/icons/select-similar-layers.png" width=80px>
+
+Adobe Illustratorのように、選択したレイヤーと同じ情報を持っているレイヤーをまとめて選択できるプラグインです。
+
+### [Overrideit](https://github.com/ahmedmigo/overrideit-sketchplugin)
+選択したインスタンスのオーバーライドを別ウインドウで編集できるプラグインです。やや動作が重いのが難点ですが、オーバーライドの項目が多い場合は、インスペクタには収まりきらないのでこのプラグインが役に立ちます。
+
+## ハンドオフ・遷移図
+### [Sketch Measure](http://utom.design/measure/)
+<img src="https://raw.githubusercontent.com/yory-design/sketch-plugins-services/master/img/plugins/icons/mesure.png" width=80px>
+
+Canvas上にオブジェクトの情報やマージンなどを記載できるプラグインです。また、各種情報をHTMLとして出力することもできます。
+開発側とコミュニケーションする際には、実装に必要な情報を得られるドキュメントの作成が必須です。後述のZeplinやInspectはネットワーク利用が前提のサービスですが、Sketch Measureはオフラインで全てが完結するので、オンラインサービスを使うのが難しい場合はSketch Measureの利用を検討してみてください。
+
+### [User Flows](https://abynim.github.io/UserFlows/)
+<img src="https://raw.githubusercontent.com/yory-design/sketch-plugins-services/master/img/plugins/icons/user-flows.png" width=80px>
+
+Sketch上で画面遷移図が作れるプラグインです。通常の作業に支障が出ないように、生成される線がロックされていたり、アートボードを動かしても位置を再調整してくれるなど、親切な作りとなっています。
+
+## 操作系
+### [Nudge, Push, Shove.](http://nudgepushshove.com/)
+アートボードやレイヤーをカーソルキーで動かす時の距離を変えられるプラグインです。また、⇧＋カーソルキーより1段階大きく移動できるコマンドも備えています。
+
+### [Handy Tools](https://github.com/webpatch/Handy-Tools)
+Adobe Illustratorのように、オブジェクトの整列をする際に基点となるオブジェクトを指定できたり、複数オブジェクトのマージンを指定できるプラグインです。
 
 ## その他
-### [Overflow](https://overflow.io/)
-<img src="https://raw.githubusercontent.com/yory-design/sketch-plugins-services/master/img/services/icons/overflow.png" width=80px>
+### [Midnight](https://midnightsketch.com/)
+<img src="https://raw.githubusercontent.com/yory-design/sketch-plugins-services/master/img/plugins/icons/midnight.png" width=80px>
 
-Sketchで作成した画面をエクスポートして画面遷移が作れるサービスです。レイヤー単位をホットスポットにできる、共有用のパスワード付きURLを生成できる、画面に変更があった時は同期して上書きしてくれるなど、遷移図を作るのに必要な機能がひととおり揃っています
+Sketchをダークモードに変えられるプラグインです。その他にもツールバーのアイコンを変更できたり、レイヤーリストのインデント表示やカラータグの追加もできます。
 
-### [Sip](http://sipapp.io/)
-<img src="https://raw.githubusercontent.com/yory-design/sketch-plugins-services/master/img/services/icons/sip.png" width=80px>
+### [Material Theme Editor](https://material.io/tools/theme-editor/)
+Material Designのガイドラインに沿ったテンプレートをもとに、オリジナルのテーマを作成・カスタマイズできるGoogle製のプラグインです。初めてAndroidのアプリを作る時などに活用できます。
 
-メニューバーに常駐するカラーピッカーアプリです。Sipで取得した色をSketchで選択しているオブジェクトのFill Color／Border Colorに反映する機能があります。
+### [SVGO Compressor](https://github.com/bohemiancoding/svgo-compressor)
+<img src="https://raw.githubusercontent.com/yory-design/sketch-plugins-services/master/img/plugins/icons/svgo-compressor.png" width=80px>
 
-### [Sketch Cache Cleaner](https://yo-op.github.io/sketchcachecleaner/)
-<img src="https://raw.githubusercontent.com/yory-design/sketch-plugins-services/master/img/services/icons/chachecleaner.png" width=80px>
+Bohemianが公式で提供しているSVG圧縮プラグインです。インストールすれば、あとは自動的に「Make Exportable」から書き出すSVGを圧縮してくれます。
 
-Sketchで作業をしていく中で溜まってきたキャッシュを削除するツールです。
+### [PDF Export](https://github.com/DWilliames/PDF-export-sketch-plugin)
+<img src="https://raw.githubusercontent.com/yory-design/sketch-plugins-services/master/img/plugins/icons/pdf-export.png" width=80px>
 
-### [Lunacy](https://icons8.jp/lunacy)
-<img src="https://raw.githubusercontent.com/yory-design/sketch-plugins-services/master/img/services/icons/lunacy.png" width=80px>
+Sketchが標準で搭載しているPDF出力よりも細かい設定ができるプラグインです。選択したアートボードのみ出力、PNGデータをPDFとしてまとめる、などの機能が使えます。
 
-Windows PCでもSketchファイルの作成・閲覧・編集ができるアプリです。今後はシンボルやスタイルの実装が予定されているようです。
+### [Stark](http://www.getstark.co/)
+<img src="https://raw.githubusercontent.com/yory-design/sketch-plugins-services/master/img/plugins/icons/stark.png" width=80px>
+
+色覚障害のシミュレートやコントラストのチェックができるプラグインです。
+
+### [Place Linked Bitmap](https://github.com/frankko/Place-Linked-Bitmap)
+<img src="https://raw.githubusercontent.com/yory-design/sketch-plugins-services/master/img/plugins/icons/place-linked-bitmap.png" width=80px>
+
+画像に外部リンクの設定を付与できるプラグインです。
+
+### [Sketch Artboard Manager](https://github.com/bomberstudios/artboard-manager)
+アートボードの並び替え整理整頓が簡単にできるプラグインです。
